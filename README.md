@@ -8,7 +8,7 @@
 
 # Clock Application
 <p align="center">
-<div align="center"><img src="https://github.com/kohinoor12/clock-python/blob/db34a700c85420a28216814283292c8451339440/clock.png" width=30% height=30%></div>
+<div align="center"><img src="https://github.com/kohinoor12/clock-python/blob/db34a700c85420a28216814283292c8451339440/clock.png" width=40% height=40%></div>
 
 ## 🛠️ Description
 
